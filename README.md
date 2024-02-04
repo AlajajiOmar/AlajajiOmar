@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Omar Alajaji and I have a great interest in Cybersecurity and Data Analysis.</h2>
+<h2 align="left">Hi 👋! My name is Omar Alajaji</h2>
 
 ###
 
@@ -48,18 +48,10 @@
   <a href="82p" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="k1y0sh1__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+
 </div>
 
-###
 
-<br clear="both">
-
-![Snake animation](https://github.com/k1y0sh1/k1y0sh1/blob/output/github-contribution-grid-snake.svg)
-
-###
 
 <div align="center">
 </div>
